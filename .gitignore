@@ -32,3 +32,4 @@ override.tf.json
 #Ignore .tfvars files
 *.tfvars
 .terraform.lock.hcl
+.github
